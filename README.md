@@ -1,1 +1,1 @@
-# XAI
+# Xplainable AI
